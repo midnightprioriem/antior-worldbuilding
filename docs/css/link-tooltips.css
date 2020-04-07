@@ -1,0 +1,35 @@
+.tooltip_templates { display: none; }
+
+a {
+  -webkit-user-select: none; 
+  -webkit-touch-callout: none; 
+}
+
+.tooltipster-box {
+    background: #3c38369F !important;
+    border: 0px  !important;
+    border-radius: 15px !important;
+    -webkit-backdrop-filter: blur(6px) !important;
+    backdrop-filter: blur(6px) !important;
+}
+
+.tooltipster-box p {
+	color: var(--primaryLight);
+	font-size: 1.3em;
+}
+
+.tooltipster-box h1 {
+	color: var(--primaryLight)
+}
+
+.tooltipster-box a {
+	color: var(--primaryLight) !important;
+	border-bottom: none !important; 
+	pointer-events: none !important;
+	cursor: default !important;
+}
+
+.tooltipster-arrow {
+    display: none !important;
+}
+
