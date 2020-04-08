@@ -26,4 +26,4 @@ Palom barked a laugh, then paced towards his desk, arms behind his back. "Imposs
 
 "I understand, sir, but---"
 
-"However," Palom continued, "These things are not to be taken lightly, Yevare. There is a reason Verimancy, or the Craft, is so difficult, and a method to the study of these theorems. The danger in misusing the Craft without fulling understanding the consequences can result in terrible outcomes. Death, if you're lucky. Worse, if you aren't."
+"However," Palom continued, "These things are not to be taken lightly, Yevare. There is a reason Verimancy, or the Craft as it is often called, is so difficult, and there is a method to the study of these theorems. The danger in misusing the Craft without fulling understanding the consequences can result in terrible outcomes. Death, if you're lucky. Worse, if you aren't."
